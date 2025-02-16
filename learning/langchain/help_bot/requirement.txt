@@ -1,0 +1,7 @@
+langchain
+chromaDB
+llama-cpp-python
+pymupdf
+numpy
+sentence-transformers
+langchain-google-genai
